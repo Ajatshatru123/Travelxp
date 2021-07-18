@@ -223,11 +223,7 @@ label {
   color: #1e2125;
   background-color: #dd3543;
 }
-@media (max-width: 360px) {
-  .card {
-    width: 100%;
-  }
-}
+
 @media (min-width: 330px) {
   .card {
     width: 90%;
