@@ -201,6 +201,13 @@ label {
 .text-muted {
   text-align: justify;
   color: #6c757d!important;
+  margin-left: 200px;
+  margin-top: 30px;
+  margin-right: -20px;
+}
+.lead{
+  text-align: justify;
+  color: #6c757d!important;
   margin-left: 23px;
   margin-top: 30px;
   margin-right: 23px;
