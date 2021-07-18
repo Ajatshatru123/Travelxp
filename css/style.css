@@ -228,7 +228,7 @@ label {
     width: 100%;
   }
 }
-@media (min-width: 320px) {
+@media (min-width: 330px) {
   .card {
     width: 90%;
   }
